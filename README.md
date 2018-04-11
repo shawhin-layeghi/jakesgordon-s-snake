@@ -1,5 +1,7 @@
 I TAKE NO CREDIT FOR THIS PROJECT.
 I only cloned it to make it work with GitHub Pages.
+Everything else is by JakesGordon.
+___________________________________________________
 
 Javascript Snakes
 =================
