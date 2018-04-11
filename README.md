@@ -1,3 +1,6 @@
+I TAKE NO CREDIT FOR THIS PROJECT.
+I only cloned it to make it work with GitHub Pages.
+
 Javascript Snakes
 =================
 
